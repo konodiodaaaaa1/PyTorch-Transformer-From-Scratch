@@ -1,0 +1,26 @@
+# PyTorch相关 - 匹配你的CUDA 12.1
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+--index-url https://download.pytorch.org/whl/cu121
+
+# 项目核心依赖
+transformers==4.31.0
+datasets==2.13.1
+tokenizers==0.13.3
+
+# 评估和工具
+sacrebleu==2.3.1
+nltk==3.8.1
+tensorboard==2.13.0
+
+# 基础科学计算
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+notebook>=7.0.0
+scikit-learn>=1.3.0
+seaborn>=0.12.2
