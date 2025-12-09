@@ -316,7 +316,7 @@ python debug_plus.py
 ## 📞 联系
 
 如有问题或建议，请通过以下方式联系：
-- **GitHub Issues**: [提交问题](https://github.com/yourusername/TransformerFromScratch/issues)
+- **GitHub Issues**: [提交问题](https://github.com/konodiodaaaaa1/PyTorch-Transformer-From-Scratch/issues)
 - **Email**: your.email@example.com
 
 ---
